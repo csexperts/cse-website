@@ -14,6 +14,7 @@ const BruceSchneierBiography = () => (
 
 export const BruceSchneier: TeamMember = {
 	name: "Bruce Schneier",
+	role: "Testifying Expert",
 	photoPath: TeamPhotoPaths.BruceSchneier,
 	biography: BruceSchneierBiography,
 };

@@ -4,7 +4,7 @@ export const RolesOrderedByPriority = [
 	"Testifying Expert",
 	"Consulting Expert",
 	"Staff",
-];
+] as const;
 
 export type Role = typeof RolesOrderedByPriority[number];
 
