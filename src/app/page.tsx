@@ -34,7 +34,7 @@ export default function Home() {
       <section className="contact-us">
         <p>
           You can reach our four founding members directly by emailing <a href="mailto:team@cse.llc" target="_blank">team@cse.llc</a>.<br/>
-          <i>Your message will not be held up by an admin, inspected by an AI, otherwise treated inhumanely.</i>
+          <i>Your message will not be held up by an admin, inspected by an AI, or otherwise treated inhumanely.</i>
         </p>
       </section>
     </main>
