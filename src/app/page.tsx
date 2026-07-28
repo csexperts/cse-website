@@ -12,8 +12,8 @@ export default function Home() {
     <header>
       <div className="title">Computer Science Experts, LLC</div>
       <div className="summary">
-        <span>Investigations and expert testimony</span>
-        <span>performed </span>
+        <span>Investigations and expert testimony&nbsp;</span>
+        <span>performed&nbsp;</span>
         <span>with obsessive diligence</span>
       </div>
       <div className="contact">
