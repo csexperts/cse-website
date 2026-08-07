@@ -6,6 +6,7 @@ import { KathleenSeidel } from "./KathleenSeidel";
 import { SaraLazarus } from "./SaraLazarus";
 import { MaritzaJohnson } from "./MaritzaJohnson";
 import { roleToPriority } from "./TeamMember";
+import { JosephBonneau } from "./Joseph Bonneau";
 
 export const TeamMembers = [
 	BruceSchneier,
@@ -15,6 +16,7 @@ export const TeamMembers = [
 	KathleenSeidel,
 	SaraLazarus,
 	MaritzaJohnson,
+	JosephBonneau,
 ].sort( (a, b) => {
 	if (a.role !== b.role) return roleToPriority[a.role] - roleToPriority[b.role];
 	return a.name.localeCompare(b.name);

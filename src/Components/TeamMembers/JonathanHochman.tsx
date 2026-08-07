@@ -5,10 +5,11 @@ import { TeamPhotoPaths } from "./TeamPhotoPaths";
 const JonathanHochmanBiography = () => (
 	<BiographyView>
 		<p>
-			Jonathan Hochman, PhD serves as consulting and testifying expert for cases related to Internet marketing, Internet security, privacy, e-commerce, website development, digital forensics, and search engine optimization (SEO), as well as pay-per-click (PPC), mobile, and digital advertising. He has provided expert witness services since 2007 to plaintiffs and defendants alike for disputes involving trademarks, patents, trade secrets, copyrights, contracts, defamation and online reputation, unfair competition, conspiracy and fraud.
-		</p>
-		<p>
-			Jonathan has testified at 24 trials and 66 depositions and has served as an expert in hundreds of cases. He has served clients located in the United States, United Kingdom, Canada, Australia, Israel, Ukraine, and Romania. Upon receiving his PhD from Yale University he was invited to join the faculty as a lecturer.
+Jonathan Hochman, PhD, is a computer scientist and consulting and testifying expert specializing in software engineering, internet technologies, cybersecurity, digital identity, data privacy, e-commerce, digital advertising, search engine optimization (SEO), and pay-per-click advertising (PPC).
+		</p><p>
+Since 2007, Jonathan has been retained by plaintiffs and defendants in hundreds of matters involving patents, trademarks, copyrights, trade secrets, contracts, defamation, online reputation, unfair competition, and fraud. He has testified in 24 trials and 76 depositions, including proceedings in U.S. federal and state courts, arbitrations, the Federal Court of Canada, and the District Court of Israel.
+		</p><p>
+Jonathan earned his PhD in Computer Science from Yale University, where he is a Research Associate and has taught courses in cybersecurity, digital identity, privacy, and secure software development. He is also a named inventor on three U.S. patents and was a co-founder of CodeGuard, a website-security company acquired by Sectigo.
 		</p>
 	</BiographyView>
 );
