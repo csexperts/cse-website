@@ -23,8 +23,8 @@ export default function Home() {
     <main>
       <section>
         <div className="full-pitch">
-          <div>We are highly-regarded scientists,</div>
-          <div>experienced in legal investigations and testimony,</div>
+          <div>We are scientists trusted in consequential</div>
+          <div>legal investigations and testimony,</div>
           <div>collaborating as a team to deliver exceptional results.</div>
         </div>
         <CasesOfNoteView/>
@@ -41,7 +41,7 @@ export default function Home() {
     <footer>
       <div>Copyright 2026 Computer Science Experts, LLC</div>
       <div>Cambridge &mdash; Berkeley &mdash; New London &mdash; Toronto</div>
-      <div>860-558-7150</div>
+      <div><a href="tel:+18605587150">860-558-7150</a></div>
       <div>Registered in MA.</div>
 	</footer>
   </>);
