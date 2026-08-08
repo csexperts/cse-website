@@ -23,8 +23,8 @@ export default function Home() {
     <main>
       <section>
         <div className="full-pitch">
-          <div>We are scientists trusted in consequential</div>
-          <div>legal investigations and testimony,</div>
+          <div>We are highly-regarded scientists,</div>
+          <div>experienced in legal investigations and testimony,</div>
           <div>collaborating as a team to deliver exceptional results.</div>
         </div>
         <CasesOfNoteView/>
