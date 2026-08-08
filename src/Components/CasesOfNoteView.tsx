@@ -229,7 +229,7 @@ export const CasesOfNoteView = () => (<>
       </tr>
       </tbody>
     </table>
-    <div className="note">Underlines represent the parties our clients have represented. Our cases of note includes work experts performed prior to, or outside of, CSE.
+    <div className="note">Underlines represent the parties our clients have represented. Our cases of note include work our experts performed prior to, or outside of, CSE.
     </div>
   </div>
 </>);
