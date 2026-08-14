@@ -10,5 +10,5 @@ export const TeamPhotoPaths = {
 	JosephBonneau: '/images/bonneau.webp',
 	SamSchreiber: '/images/schreiber.png',
 	PatrickZimmerman: '/images/zimmerman.png',
-	JackyMallet: '/images/mallet.png',
+	JackyMallett: '/images/mallett.png',
 } as const;

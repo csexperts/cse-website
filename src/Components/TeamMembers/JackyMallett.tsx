@@ -2,7 +2,7 @@ import { BiographyView } from "../BiographyView";
 import type { TeamMember } from "./TeamMember";
 import { TeamPhotoPaths } from "./TeamPhotoPaths";
 
-const JackyMalletBiography = () => (
+const JackyMallettBiography = () => (
 	<BiographyView>
 		<p>
 			Jacky Mallett's research focuses on cyber defence, networks, distributed systems, and cryptocurrencies.  Her research looks at the behaviour and constraints on complex networked systems, with applications in computer and economic systems. She has identified several feedback loops in banking regulation, including the Asset Backed Security loophole which lay behind the 2008 crisis. She is also the author of Threadneedle, the first computer simulation to accurately reproduce the behaviour of the fractional reserve banking system using double entry bookkeeping.					
@@ -13,9 +13,9 @@ const JackyMalletBiography = () => (
 	</BiographyView>
 );
 
-export const JackyMallet: TeamMember = {
+export const JackyMallett: TeamMember = {
 	name: "Jacky Mallett",
 	role: "Consulting Expert",
-	photoPath: TeamPhotoPaths.JackyMallet,
-	biography: JackyMalletBiography,
+	photoPath: TeamPhotoPaths.JackyMallett,
+	biography: JackyMallettBiography,
 };

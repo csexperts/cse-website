@@ -7,7 +7,7 @@ import { SaraLazarus } from "./SaraLazarus";
 import { MaritzaJohnson } from "./MaritzaJohnson";
 import { roleToPriority } from "./TeamMember";
 import { JosephBonneau } from "./Joseph Bonneau";
-import { JackyMallet } from "./JackyMallet";
+import { JackyMallett } from "./JackyMallett";
 import { PatrickZimmerman } from "./PatrickZimmerman";
 import { SamSchreiber } from "./SamSchreiber";
 
@@ -21,7 +21,7 @@ export const TeamMembers = [
 	MaritzaJohnson,
 	JosephBonneau,
 	PatrickZimmerman,
-	JackyMallet,
+	JackyMallett,
 	SamSchreiber,
 ].sort( (a, b) => {
 	if (a.role !== b.role) return roleToPriority[a.role] - roleToPriority[b.role];
