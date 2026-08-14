@@ -8,4 +8,7 @@ export const TeamPhotoPaths = {
 	SaraLazarus: '/images/sara.png',
 	MaritzaJohnson: '/images/maritza.webp',
 	JosephBonneau: '/images/bonneau.webp',
+	SamSchreiber: '/images/schreiber.png',
+	PatrickZimmerman: '/images/zimmerman.png',
+	JackyMallet: '/images/mallet.png',
 } as const;
