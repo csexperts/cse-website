@@ -136,6 +136,19 @@ footer {
 .subsection {
 	margin-left: min(1.5rem, 1vw);
 }
+footer a,
+footer a:visited {
+  color: #7dd3fc;
+}
+
+footer a:hover,
+footer a:focus-visible {
+  color: #bae6fd;
+}
+
+footer a:active {
+  color: #e0f2fe;
+}
 table.law {
 	font-size: min(110%, 2.5vw);
 	min-width: min(50vw, 30rem);
