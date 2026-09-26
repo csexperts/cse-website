@@ -38,10 +38,11 @@ export const CasesOfNoteView = () => (<>
         </tr>
       </thead>
       <tbody>
-        <tr className="case">
+        <tr className="case">{
           /*
           State of New Mexico v. Facebook, Inc. D-101-CV-2021-00132 New Mexico Unfair Practices Act (NMSA 1978, §§ 57-12-1 to -26)
           */
+        }
           <td className="case-name">
             <a target="_blank" href="https://nmdoj.gov/press-release/jury-finds-facebook-violated-new-mexico-consumer-protection-law-faces-billions-in-potential-civil-penalties/">
               <span className="plaintiff our-client">State of New Mexico</span>
