@@ -226,7 +226,7 @@ table.law {
 		border-radius: 0.5rem;
 	}
 
-	.victory {
+	.verdict {
 		background-color: #006000;
 		color: white;	
 	}
@@ -234,8 +234,8 @@ table.law {
 		background-color: #008000;
 		color: white;
 	}
-	/* override .victory and .settled to be more humble */
-	.victory, .settled {
+	/* override .verdict and .settled to be more humble */
+	.verdict, .settled {
 		background-color: #C0C0C0;
 	}
 
@@ -326,7 +326,7 @@ main {
 	color: light-dark(#002000, #d0ffd0);
 	text-decoration: underline rgba(128, 128, 128, 0.5);
 }
-/* .our-opponent {
+/* .adverse-party {
 	color: light-dark(#400000, #ffc0c0);	
 } */
 .victor {
