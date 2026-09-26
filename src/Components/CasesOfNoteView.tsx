@@ -31,10 +31,10 @@ export const ExpertSchneier = () => (
 export const CasesOfNoteView = () => (<>
   <h1>Cases of Note</h1>
   <div className="subsection">
-    <table className="law">
+        <table className="law">
       <thead>
         <tr>
-          <th className="law-name" colSpan={3}>California Invasion of Privacy Act (CIPA), Federal Wiretap Act</th>
+          <th className="law-name" colSpan={3}>New Mexico Unfair Practices Act (NMSA 1978, §§ 57-12-1 to -26)</th>
         </tr>
       </thead>
       <tbody>
@@ -58,6 +58,15 @@ export const CasesOfNoteView = () => (<>
             <ExpertEgelman />
           </td>
         </tr>
+    </tbody>
+    </table>
+    <table className="law">
+      <thead>
+        <tr>
+          <th className="law-name" colSpan={3}>California Invasion of Privacy Act (CIPA), Federal Wiretap Act</th>
+        </tr>
+      </thead>
+      <tbody>
         <tr className="case">
           <td className="case-name">
             <a target="_blank" href="https://www.courtlistener.com/docket/17216783/brown-v-google-llc">
