@@ -44,7 +44,7 @@ export const CasesOfNoteView = () => (<>
           */
         }
           <td className="case-name">
-            <a target="_blank" href="https://nmdoj.gov/press-release/jury-finds-facebook-violated-new-mexico-consumer-protection-law-faces-billions-in-potential-civil-penalties/">
+            <a target="_blank" href="https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/">
               <span className="plaintiff our-client">State of New Mexico</span>
               <span className="vs">v.</span>
               <span className="defendant adverse-party">Facebook, Inc.</span>
